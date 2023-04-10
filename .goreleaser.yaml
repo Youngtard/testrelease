@@ -31,7 +31,7 @@ changelog:
       - '^test:'
 brews:
   - name: testrelease
-    hompage: https://github.com/Youngtard/homebrew-testrelease
+    homepage: https://github.com/Youngtard/homebrew-testrelease
     tap:
       owner: Youngtard
       name: homebrew-testrelease
