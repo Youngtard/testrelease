@@ -29,6 +29,12 @@ changelog:
     exclude:
       - '^docs:'
       - '^test:'
+brews:
+  - name: testrelease
+    hompage: https://github.com/Youngtard/homebrew-testrelease
+    tap:
+      owner: Youngtard
+      name: homebrew-testrelease
 
 # modelines, feel free to remove those if you don't want/use them:
 # yaml-language-server: $schema=https://goreleaser.com/static/schema.json
